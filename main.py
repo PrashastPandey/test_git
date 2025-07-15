@@ -1,1 +1,1 @@
-print("Hello from featire")
+print("Hello from main")
