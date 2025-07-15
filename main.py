@@ -1,2 +1,1 @@
-#Testing00
-#Alpha
+print("Hello from main")
